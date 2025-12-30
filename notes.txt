@@ -1,0 +1,5 @@
+1. classes n obj-
+    class has data/attribute and func/methods
+    attributes gets called itself, methods are called manually
+2. why python  is called object oriented program
+ 
