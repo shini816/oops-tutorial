@@ -2,4 +2,21 @@
     class has data/attribute and func/methods
     attributes gets called itself, methods are called manually
 2. why python  is called object oriented program
- 
+3. end to end project (chatbox class)
+4. function vs methods
+5. you can create attribute outside class as well
+6. encapsulation (additional layer of protection in python is called encapsulation) -
+    self__name = "default user" (how to hide attribute)
+    how to access the attribute - 
+        print(user1._chatbook__name)
+7. getter and setter -  
+    Getter is a method used to access (read) the value of a class’s private data member.
+    Setter is a method used to modify (write) the value of a private data member with validation/control.
+    They support encapsulation, one of the core principles of OOP, by restricting direct access to class variables.
+8.inheritance - 
+
+
+
+dvc 
+mkdir - direct file remote origin banata h
+dvc remote add -d myremote s3 (issche remote set karte h)

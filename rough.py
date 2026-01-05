@@ -8,6 +8,19 @@
 
 # # any data structure/type under python is a class
 
-from opps_proj import chatbox
+# from opps_proj import chatbox
 
-user1 = chatbox()
+# user1 = chatbox()
+
+# lst = [1,2,3]
+
+# #func v/s method
+# #function
+# a1 = len(lst)
+# print(a1)
+
+# #method
+# user1 = chatbox()
+# user1.sendmsg()
+
+
